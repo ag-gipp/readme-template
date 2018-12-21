@@ -34,7 +34,14 @@ Depending on the size of the project, if it is small and simple enough the refer
 Describe and show how to run the tests with code examples.
 
 ## How to use? (maybe optional)
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. Whether this section is required and if it should be part of the `README.md` depends on your project. If the `Very Short Code Examples` from above already comprehensively (despite being concise!) cover all the major functionality provided by your project, the `How to use?` section can be omitted. However, if you think that users/developers of your project will need more information to fully understand how to use your project, the section `How to use?` is mandatory. 
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. Whether this section is required and if it should be part of the `README.md` depends on your project. If the `Very Short Code Examples` from above already comprehensively (despite being concise!) cover all the major functionality provided by your project, the `How to use?` section can be omitted. However, if you think that users/developers of your project will need more information to fully understand how to use your project, the section `How to use?` is mandatory. Next, you need to decide where to put this information. If it small, you may add it to the `README.md`, if not, place the information into a new `.md` file.
+
+## Results
+If you are about to complete your project, include your preliminary results that you also show in your final project presentation, e.g., precision/recall/F1 measure and/or figures highlighting what your project is able to do with data. If applicable, at first briefly describe the dataset your created/use and the use cases.
+
+If you are about to complete your thesis, just include the most important findings (precision/recall/F1 measure) and refer the to the corresponding pages in your thesis document.
 
 ## License
 Include the project's license. Usually we suggest MIT or Apache. Ask your supervisor.
+
+This file itself is partially based on [this file](https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271) and licensed under the Apache 2 license.
