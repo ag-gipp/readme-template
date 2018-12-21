@@ -34,7 +34,7 @@ Depending on the size of the project, if it is small and simple enough the refer
 Describe and show how to run the tests with code examples.
 
 ## How to use? (maybe optional)
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. 
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. Whether this section is required and if it should be part of the `README.md` depends on your project. If the `Very Short Code Examples` from above already comprehensively (despite being concise!) cover all the major functionality provided by your project, the `How to use?` section can be omitted. However, if you think that users/developers of your project will need more information to fully understand how to use your project, the section `How to use?` is mandatory. 
 
 ## License
 Include the project's license. Usually we suggest MIT or Apache. Ask your supervisor.
