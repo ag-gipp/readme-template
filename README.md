@@ -9,7 +9,7 @@ Besides using the following template, also check out the following sources to se
 * [Article: How to write a good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 Useful tools:
-* [Recordit (to record your screen and safe it to a GIF](http://recordit.co/)
+* [Recordit: record your screen and safe it to a GIF](http://recordit.co/)
 
 ## Project title
 A little info about your project and/ or overview that explains **what** the project is about.
