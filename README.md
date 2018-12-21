@@ -6,6 +6,7 @@ Thus, copy this file's content as a template in your own project and revise it w
 
 Besides using the following template, also check out the following sources to see some examples or read further useful information on how to write a good `README.md` for your project. Note that the exemplary projects do not 100% follow this template (either because they are created by third-parties or were created before we consolidated all the information into this template) but are still examples of good `README.md` files.
 * [news-please](https://github.com/fhamborg/news-please/blob/master/README.md)
+* [Article: How to write a good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Project title
 A little info about your project and/ or overview that explains **what** the project is about.
