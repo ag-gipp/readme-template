@@ -1,8 +1,5 @@
 #  How to use this file
-We ask that all students working on their Bachelor or Master projects / theses has to hand in the source code and a project documentation. 
-Source coude (including architecture and comments) has to adhere to our [developer guidelines](https://isgroup.atlassian.net/wiki/spaces/STUD/pages/1409184/Developer+Guidelines). 
-The project documentation has to consist of a `README.md` file (optionally also more `.md` files or if useful) that contains the following information. 
-Thus, copy this file's content as a template in your own project and revise it with your project's information. 
+We ask that all students working on their Bachelor or Master projects/theses have to hand in the source code and project documentation. Source code (including architecture and comments) has to adhere to our [developer guidelines](https://isgroup.atlassian.net/wiki/spaces/STUD/pages/1409184/Developer+Guidelines). The project documentation has to consist of a `README.md` file (optionally also more `.md` files if useful) that contains the following information. Thus, copy this file's content as a template in your project and revise it with your project's information.
 
 Besides using the following template, also check out the following sources to see some examples or read further useful information on how to write a good `README.md` for your project. Note that the exemplary projects do not 100% follow this template (either because they are created by third-parties or were created before we consolidated all the information into this template) but are still examples of good `README.md` files.
 * [Example: news-please](https://github.com/fhamborg/news-please/blob/master/README.md)
@@ -13,7 +10,7 @@ Useful tools:
 * [Recordit: record your screen and safe it to a GIF](http://recordit.co/)
 
 ## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
+A little info about your project and overview that explains **what** the project is about.
 
 ## Motivation
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists and which issue it addresses.
@@ -34,10 +31,10 @@ Depending on the size of the project, if it is small and simple enough the refer
 Describe and show how to run the tests with code examples.
 
 ## How to use? (maybe optional)
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project. Whether this section is required and if it should be part of the `README.md` depends on your project. If the `Very Short Code Examples` from above already comprehensively (despite being concise!) cover all the major functionality provided by your project, the `How to use?` section can be omitted. However, if you think that users/developers of your project will need more information to fully understand how to use your project, the section `How to use?` is mandatory. Next, you need to decide where to put this information. If it small, you may add it to the `README.md`, if not, place the information into a new `.md` file.
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to using your project. Whether this section is required and if it should be part of the `README.md` depends on your project. If the `Very Short Code Examples` from above already comprehensively (despite being concise!) cover all the major functionality provided by your project, the `How to use?` section can be omitted. However, if you think that users/developers of your project will need more information to fully understand how to use your project, the section `How to use?` is mandatory. Next, you need to decide where to put this information. If it is just a few information, you may add it to the `README.md`, if not, place the information into a new `.md` file.
 
 ## Results
-If you are about to complete your project, include your preliminary results that you also show in your final project presentation, e.g., precision/recall/F1 measure and/or figures highlighting what your project is able to do with data. If applicable, at first briefly describe the dataset your created/use and the use cases.
+If you are about to complete your project, include your preliminary results that you also show in your final project presentation, e.g., precision/recall/F1 measure and/or figures highlighting what your project does with input data. If applicable, at first briefly describe the dataset your created/use and the use cases.
 
 If you are about to complete your thesis, just include the most important findings (precision/recall/F1 measure) and refer the to the corresponding pages in your thesis document.
 
