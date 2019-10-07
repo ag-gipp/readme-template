@@ -18,13 +18,13 @@ A short description of the project’s motivation. **Why** does the project exis
 ## Features
 What makes your project stand out? Include screenshots, code snippets, logos, etc.
 
-## Code Examples
+## Code examples
 Include **very short code examples** that show what the project does as **concisely** as possible. Developers should be able to figure out **how** your project solves their problem by looking at the code examples. Make sure the API you are showing off is intuitive, and that your code is short and concise. See the [news-please project](https://github.com/fhamborg/news-please/blob/master/README.md#use-within-your-own-code-as-a-library) for example.
 
 ## Installation
 Provide step-by-step examples and descriptions of how to set up a development environment.
 
-## API Reference
+## API reference
 For small projects with a simple enough API, include the reference docs in this README. For medium-sized and larger projects, provide a link to the API reference docs.
 
 ## Tests (optional: only if you have tests)
