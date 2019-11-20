@@ -41,9 +41,9 @@ If you are about to complete your thesis, include the most important findings (p
 ## License
 Include the project's license. Usually, we suggest MIT or Apache. Ask your supervisor. For example:
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use news-please except in compliance with the License. A copy of the License is included in the project, see the file [LICENSE.txt](LICENSE).
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use news-please except in compliance with the License. A copy of the License is included in the project, see the file [LICENSE](LICENSE).
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License
 
 ## License of this readme-template (remove this once you replaced this readme-template with your own content)
-This file itself is partially based on [this file](https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271). The text part of this repository is licensed under the [Apache 2 license](LICENSE). 
+This file itself is partially based on [this file](https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271). 
