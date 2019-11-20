@@ -41,4 +41,5 @@ If you are about to complete your thesis, include the most important findings (p
 ## License
 Include the project's license. Usually, we suggest MIT or Apache. Ask your supervisor.
 
-This file itself is partially based on [this file](https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271). The code and text part of this repository is licensed under the [Apache 2 license](LICENSE).
+## License of this readme-template (remove this once you replaced this readme-template with your own content)
+This file itself is partially based on [this file](https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271). The code and text part of this repository is licensed under the [Apache 2 license](LICENSE). 
