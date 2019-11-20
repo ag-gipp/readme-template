@@ -1,5 +1,9 @@
 #  How to use this file
-We ask all students working on projects and theses with us to i) hand in their source code and ii) provide a documentation for their project. Source code (including the code architecture and comments) has to adhere to our [developer guidelines](https://isgroup.atlassian.net/wiki/spaces/STUD/pages/1409184/Developer+Guidelines). The project documentation consists of one or more a `README.md` files that cover the topics listed hereafter. Thus, copy this file's content to your project and use it as a template to write the documentation for your project.
+We ask all students working on projects and theses with us to 
+* hand in their source code and
+* provide a documentation for their project. 
+
+Source code (including the code architecture and comments) has to adhere to our [developer guidelines](https://isgroup.atlassian.net/wiki/spaces/STUD/pages/1409184/Developer+Guidelines). The project documentation consists of one or more a `README.md` files that cover the topics listed hereafter. Thus, copy this file's content to your project and use it as a template to write the documentation for your project.
 
 Aside from using this template, also check out the following sources for examples and guidelines on how to write a good `README.md` for your project. Note that the exemplary projects do not follow this template completely (either because they were created by third-parties or before we consolidated all the information into this template). They are still good examples of high-quality `README.md` files.
 * [Example: news-please](https://github.com/fhamborg/news-please/blob/master/README.md)
